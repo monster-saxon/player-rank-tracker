@@ -12,5 +12,3 @@ How to use locally:
    - On iPhone (Safari): Share → Add to Home Screen
    - On Android (Chrome): Install prompt appears or use Chrome menu → Add to Home screen
 3. Use "Export JSON" to backup and "Import JSON" to restore.
-
-Want me to host it or add user accounts / sync? Reply and I will prepare the steps.
